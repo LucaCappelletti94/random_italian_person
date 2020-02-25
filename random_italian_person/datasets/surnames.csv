@@ -79,16 +79,16 @@ Lombardia,Milano,Cattaneo
 Lombardia,Milano,Sala
 Lombardia,Milano,Russo
 Lombardia,Milano,Garavaglia
-Lombardia,Monza e Brianza,Colombo
-Lombardia,Monza e Brianza,Sala
-Lombardia,Monza e Brianza,Villa
-Lombardia,Monza e Brianza,Brambilla
-Lombardia,Monza e Brianza,Mariani
-Lombardia,Monza e Brianza,Fumagalli
-Lombardia,Monza e Brianza,Beretta
-Lombardia,Monza e Brianza,Crippa
-Lombardia,Monza e Brianza,Riva
-Lombardia,Monza e Brianza,Perego
+Lombardia,Monza e della Brianza,Colombo
+Lombardia,Monza e della Brianza,Sala
+Lombardia,Monza e della Brianza,Villa
+Lombardia,Monza e della Brianza,Brambilla
+Lombardia,Monza e della Brianza,Mariani
+Lombardia,Monza e della Brianza,Fumagalli
+Lombardia,Monza e della Brianza,Beretta
+Lombardia,Monza e della Brianza,Crippa
+Lombardia,Monza e della Brianza,Riva
+Lombardia,Monza e della Brianza,Perego
 Lombardia,Pavia,Ferrari
 Lombardia,Pavia,Rossi
 Lombardia,Pavia,Barbieri
@@ -399,16 +399,16 @@ Emilia,Ferrara,Menegatti
 Emilia,Ferrara,Cavallari
 Emilia,Ferrara,Benini
 Emilia,Ferrara,Lodi
-Emilia,Forlì-Cesena,Fabbri
-Emilia,Forlì-Cesena,Rossi
-Emilia,Forlì-Cesena,Casadei
-Emilia,Forlì-Cesena,Ricci
-Emilia,Forlì-Cesena,Magnani
-Emilia,Forlì-Cesena,Monti
-Emilia,Forlì-Cesena,Amadori
-Emilia,Forlì-Cesena,Foschi
-Emilia,Forlì-Cesena,Battistini
-Emilia,Forlì-Cesena,Ravaioli
+Emilia,Forli-Cesena,Fabbri
+Emilia,Forli-Cesena,Rossi
+Emilia,Forli-Cesena,Casadei
+Emilia,Forli-Cesena,Ricci
+Emilia,Forli-Cesena,Magnani
+Emilia,Forli-Cesena,Monti
+Emilia,Forli-Cesena,Amadori
+Emilia,Forli-Cesena,Foschi
+Emilia,Forli-Cesena,Battistini
+Emilia,Forli-Cesena,Ravaioli
 Emilia,Modena,Ferrari
 Emilia,Modena,Barbieri
 Emilia,Modena,Rossi
@@ -449,16 +449,16 @@ Emilia,Ravenna,Mazzotti
 Emilia,Ravenna,Babini
 Emilia,Ravenna,Liverani
 Emilia,Ravenna,Bandini
-Emilia,Reggio Emilia,Ferrari
-Emilia,Reggio Emilia,Rossi
-Emilia,Reggio Emilia,Montanari
-Emilia,Reggio Emilia,Ferretti
-Emilia,Reggio Emilia,Catellani
-Emilia,Reggio Emilia,Magnani
-Emilia,Reggio Emilia,Davoli
-Emilia,Reggio Emilia,Menozzi
-Emilia,Reggio Emilia,Barbieri
-Emilia,Reggio Emilia,Iotti
+Emilia,Reggio-Emilia,Ferrari
+Emilia,Reggio-Emilia,Rossi
+Emilia,Reggio-Emilia,Montanari
+Emilia,Reggio-Emilia,Ferretti
+Emilia,Reggio-Emilia,Catellani
+Emilia,Reggio-Emilia,Magnani
+Emilia,Reggio-Emilia,Davoli
+Emilia,Reggio-Emilia,Menozzi
+Emilia,Reggio-Emilia,Barbieri
+Emilia,Reggio-Emilia,Iotti
 Emilia,Rimini,Fabbri
 Emilia,Rimini,Rossi
 Emilia,Rimini,Casadei
@@ -528,16 +528,16 @@ Piemonte,Torino,Rosso
 Piemonte,Torino,Giordano
 Piemonte,Torino,Costa
 Piemonte,Torino,Marino
-Piemonte,Verbano-Cusio-Ossola,Ferrari
-Piemonte,Verbano-Cusio-Ossola,Cerutti
-Piemonte,Verbano-Cusio-Ossola,Rossi
-Piemonte,Verbano-Cusio-Ossola,Piana
-Piemonte,Verbano-Cusio-Ossola,Caretti
-Piemonte,Verbano-Cusio-Ossola,Beltrami
-Piemonte,Verbano-Cusio-Ossola,Bianchi
-Piemonte,Verbano-Cusio-Ossola,Morandi
-Piemonte,Verbano-Cusio-Ossola,Ferraris
-Piemonte,Verbano-Cusio-Ossola,Colombo
+Piemonte,Verbano Cusio Ossola,Ferrari
+Piemonte,Verbano Cusio Ossola,Cerutti
+Piemonte,Verbano Cusio Ossola,Rossi
+Piemonte,Verbano Cusio Ossola,Piana
+Piemonte,Verbano Cusio Ossola,Caretti
+Piemonte,Verbano Cusio Ossola,Beltrami
+Piemonte,Verbano Cusio Ossola,Bianchi
+Piemonte,Verbano Cusio Ossola,Morandi
+Piemonte,Verbano Cusio Ossola,Ferraris
+Piemonte,Verbano Cusio Ossola,Colombo
 Piemonte,Vercelli,Ferraris
 Piemonte,Vercelli,Rossi
 Piemonte,Vercelli,Rosso
@@ -557,16 +557,16 @@ Puglia,Bari,Bruno
 Puglia,Bari,De Palma
 Puglia,Bari,Rizzi
 Puglia,Bari,Colonna
-Puglia,Barletta-Andria-Trani,Lorusso
-Puglia,Barletta-Andria-Trani,Rizzi
-Puglia,Barletta-Andria-Trani,Zagaria
-Puglia,Barletta-Andria-Trani,Piazzolla
-Puglia,Barletta-Andria-Trani,Di Bari
-Puglia,Barletta-Andria-Trani,Russo
-Puglia,Barletta-Andria-Trani,Leonetti
-Puglia,Barletta-Andria-Trani,Cannone
-Puglia,Barletta-Andria-Trani,Matera
-Puglia,Barletta-Andria-Trani,Doronzo
+Puglia,Barletta Andria Trani,Lorusso
+Puglia,Barletta Andria Trani,Rizzi
+Puglia,Barletta Andria Trani,Zagaria
+Puglia,Barletta Andria Trani,Piazzolla
+Puglia,Barletta Andria Trani,Di Bari
+Puglia,Barletta Andria Trani,Russo
+Puglia,Barletta Andria Trani,Leonetti
+Puglia,Barletta Andria Trani,Cannone
+Puglia,Barletta Andria Trani,Matera
+Puglia,Barletta Andria Trani,Doronzo
 Puglia,Brindisi,Semeraro
 Puglia,Brindisi,Greco
 Puglia,Brindisi,Santoro
@@ -657,16 +657,16 @@ Toscana,Lucca,Ricci
 Toscana,Lucca,Giannini
 Toscana,Lucca,Giusti
 Toscana,Lucca,Pellegrini
-Toscana,Massa-Carrara,Ricci
-Toscana,Massa-Carrara,Rossi
-Toscana,Massa-Carrara,Mosti
-Toscana,Massa-Carrara,Dell'Amico
-Toscana,Massa-Carrara,Manfredi
-Toscana,Massa-Carrara,Menconi
-Toscana,Massa-Carrara,Ferrari
-Toscana,Massa-Carrara,Bianchi
-Toscana,Massa-Carrara,Pucci
-Toscana,Massa-Carrara,Baldini
+Toscana,Massa,Ricci
+Toscana,Massa,Rossi
+Toscana,Massa,Mosti
+Toscana,Massa,Dell'Amico
+Toscana,Massa,Manfredi
+Toscana,Massa,Menconi
+Toscana,Massa,Ferrari
+Toscana,Massa,Bianchi
+Toscana,Massa,Pucci
+Toscana,Massa,Baldini
 Toscana,Pisa,Rossi
 Toscana,Pisa,Salvadori
 Toscana,Pisa,Donati
@@ -737,16 +737,16 @@ Calabria,Crotone,Pugliese
 Calabria,Crotone,Rizzo
 Calabria,Crotone,Tallarico
 Calabria,Crotone,Bruno
-Calabria,Reggio Calabria,Romeo
-Calabria,Reggio Calabria,Morabito
-Calabria,Reggio Calabria,Tripodi
-Calabria,Reggio Calabria,Foti
-Calabria,Reggio Calabria,Marino
-Calabria,Reggio Calabria,Surace
-Calabria,Reggio Calabria,Crea
-Calabria,Reggio Calabria,Minniti
-Calabria,Reggio Calabria,Laganà
-Calabria,Reggio Calabria,Sucera
+Calabria,Reggio-Calabria,Romeo
+Calabria,Reggio-Calabria,Morabito
+Calabria,Reggio-Calabria,Tripodi
+Calabria,Reggio-Calabria,Foti
+Calabria,Reggio-Calabria,Marino
+Calabria,Reggio-Calabria,Surace
+Calabria,Reggio-Calabria,Crea
+Calabria,Reggio-Calabria,Minniti
+Calabria,Reggio-Calabria,Laganà
+Calabria,Reggio-Calabria,Sucera
 Calabria,Vibo Valentia,Grillo
 Calabria,Vibo Valentia,Galati
 Calabria,Vibo Valentia,Pugliese
@@ -767,16 +767,16 @@ Sardegna,Cagliari,Lai
 Sardegna,Cagliari,Manca
 Sardegna,Cagliari,Loi
 Sardegna,Cagliari,Murgia
-Sardegna,Carbonia-Iglesias,Pinna
-Sardegna,Carbonia-Iglesias,Melis
-Sardegna,Carbonia-Iglesias,Piras
-Sardegna,Carbonia-Iglesias,Sanna
-Sardegna,Carbonia-Iglesias,Serra
-Sardegna,Carbonia-Iglesias,Pintus
-Sardegna,Carbonia-Iglesias,Manca
-Sardegna,Carbonia-Iglesias,Diana
-Sardegna,Carbonia-Iglesias,Floris
-Sardegna,Carbonia-Iglesias,Lai
+Sardegna,Carbonia Iglesias,Pinna
+Sardegna,Carbonia Iglesias,Melis
+Sardegna,Carbonia Iglesias,Piras
+Sardegna,Carbonia Iglesias,Sanna
+Sardegna,Carbonia Iglesias,Serra
+Sardegna,Carbonia Iglesias,Pintus
+Sardegna,Carbonia Iglesias,Manca
+Sardegna,Carbonia Iglesias,Diana
+Sardegna,Carbonia Iglesias,Floris
+Sardegna,Carbonia Iglesias,Lai
 Sardegna,Medio Campidano,Sanna
 Sardegna,Medio Campidano,Piras
 Sardegna,Medio Campidano,Melis
@@ -797,26 +797,16 @@ Sardegna,Nuoro,Loi
 Sardegna,Nuoro,Mereu
 Sardegna,Nuoro,Deiana
 Sardegna,Nuoro,Mura
-Sardegna,Ogliastra,Lai
-Sardegna,Ogliastra,Piras
-Sardegna,Ogliastra,Loi
-Sardegna,Ogliastra,Melis
-Sardegna,Ogliastra,Deiana
-Sardegna,Ogliastra,Usai
-Sardegna,Ogliastra,Murru
-Sardegna,Ogliastra,Demurtas
-Sardegna,Ogliastra,Serra
-Sardegna,Ogliastra,Mereu
-Sardegna,Olbia-Tempio,Sanna
-Sardegna,Olbia-Tempio,Deiana
-Sardegna,Olbia-Tempio,Spano
-Sardegna,Olbia-Tempio,Carta
-Sardegna,Olbia-Tempio,Cossu
-Sardegna,Olbia-Tempio,Careddu 
-Sardegna,Olbia-Tempio,Addis
-Sardegna,Olbia-Tempio,Pinna
-Sardegna,Olbia-Tempio,Meloni
-Sardegna,Olbia-Tempio,Azara
+Sardegna,Olbia Tempio,Sanna
+Sardegna,Olbia Tempio,Deiana
+Sardegna,Olbia Tempio,Spano
+Sardegna,Olbia Tempio,Carta
+Sardegna,Olbia Tempio,Cossu
+Sardegna,Olbia Tempio,Careddu 
+Sardegna,Olbia Tempio,Addis
+Sardegna,Olbia Tempio,Pinna
+Sardegna,Olbia Tempio,Meloni
+Sardegna,Olbia Tempio,Azara
 Sardegna,Oristano,Sanna
 Sardegna,Oristano,Piras
 Sardegna,Oristano,Pinna
@@ -915,16 +905,16 @@ Marche,Macerata,Gentili
 Marche,Macerata,Mancini
 Marche,Macerata,Luciani
 Marche,Macerata,Marconi
-Marche,Pesaro Urbino,Rossi
-Marche,Pesaro Urbino,Ferri
-Marche,Pesaro Urbino,Ricci
-Marche,Pesaro Urbino,Cecchini
-Marche,Pesaro Urbino,Bartolucci
-Marche,Pesaro Urbino,Serafini
-Marche,Pesaro Urbino,Mancini
-Marche,Pesaro Urbino,Guidi
-Marche,Pesaro Urbino,Conti
-Marche,Pesaro Urbino,Vitali
+Marche,Pesaro e Urbino,Rossi
+Marche,Pesaro e Urbino,Ferri
+Marche,Pesaro e Urbino,Ricci
+Marche,Pesaro e Urbino,Cecchini
+Marche,Pesaro e Urbino,Bartolucci
+Marche,Pesaro e Urbino,Serafini
+Marche,Pesaro e Urbino,Mancini
+Marche,Pesaro e Urbino,Guidi
+Marche,Pesaro e Urbino,Conti
+Marche,Pesaro e Urbino,Vitali
 Abruzzo,Chieti,D'Angelo
 Abruzzo,Chieti,Di Paolo
 Abruzzo,Chieti,D'Alessandro

@@ -1,4 +1,4 @@
-name,sex,count
+name,sex,number
 Giuseppe,M,1035
 Maria,F,962
 Andrea,M,848
@@ -10593,7 +10593,7 @@ Kleti,M,1
 Jean Gilbert,M,1
 Emanuela Marinella,F,1
 Enzo Florindo,M,1
-Giuseppe Ambrogio Emilio,M,1
+Giuseppe Ambrogio-Emilio,M,1
 Domenico Annibale,M,1
 Daniela Ignazia Lucia,F,1
 Cesarina Angela,F,1
