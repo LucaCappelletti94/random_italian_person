@@ -9,5 +9,9 @@ random_italian_person.egg-info/SOURCES.txt
 random_italian_person.egg-info/dependency_links.txt
 random_italian_person.egg-info/requires.txt
 random_italian_person.egg-info/top_level.txt
+random_italian_person/datasets/addresses.csv
+random_italian_person/datasets/municipalities.csv
+random_italian_person/datasets/names.csv
+random_italian_person/datasets/surnames.csv
 random_italian_person/utils/__init__.py
 random_italian_person/utils/random_birthday.py
