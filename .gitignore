@@ -16,3 +16,7 @@ __pycache__
 
 coverage.xml
 farmacie.csv
+htmlcov
+.pytest_cache
+.ipynb_checkpoints
+*.ipynb
