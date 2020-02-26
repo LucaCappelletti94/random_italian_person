@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+random_italian_person/__init__.py
+random_italian_person/__version__.py
+random_italian_person/random_italian_person.py
+random_italian_person.egg-info/PKG-INFO
+random_italian_person.egg-info/SOURCES.txt
+random_italian_person.egg-info/dependency_links.txt
+random_italian_person.egg-info/requires.txt
+random_italian_person.egg-info/top_level.txt
+random_italian_person/utils/__init__.py
+random_italian_person/utils/random_birthday.py
