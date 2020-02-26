@@ -5,8 +5,7 @@ from datetime import datetime
 
 def random_birthday():
     """
-    This function will return a random datetime between two datetime 
-    objects.
+    This function will return a random datetime between two datetime objects.
     """
     start = datetime.now() - timedelta(seconds=24*60*60*365*100)
     end = datetime.now() - timedelta(seconds=24*60*60*365*18)
