@@ -16,7 +16,7 @@ Acciano,L'Aquila,Abruzzo,67020,AQ
 Accumoli,Rieti,Lazio,02011,RI
 Acerenza,Potenza,Basilicata,85011,PZ
 Acerno,Salerno,Campania,84042,SA
-Acerra,Napoli,Campania,80011,
+Acerra,Napoli,Campania,80011,NA
 Aci Bonaccorsi,Catania,Sicilia,95020,CT
 Aci Castello,Catania,Sicilia,95021,CT
 Aci Catena,Catania,Sicilia,95022,CT
@@ -52,10 +52,10 @@ Adria,Rovigo,Veneto,45011,RO
 Adro,Brescia,Lombardia,25030,BS
 Affi,Verona,Veneto,37010,VR
 Affile,Roma,Lazio,00021,RM
-Afragola,Napoli,Campania,80021,
+Afragola,Napoli,Campania,80021,NA
 Africo,Reggio-Calabria,Calabria,89030,RC
 Agazzano,Piacenza,Emilia Romagna,29010,PC
-Agerola,Napoli,Campania,80051,
+Agerola,Napoli,Campania,80051,NA
 Aggius,Olbia Tempio,Sardegna,07020,OT
 Agira,Enna,Sicilia,94011,EN
 Agliana,Pistoia,Toscana,51031,PT
@@ -221,7 +221,7 @@ Amendolara,Cosenza,Calabria,87071,CS
 Ameno,Novara,Piemonte,28010,NO
 Amorosi,Benevento,Campania,82031,BN
 Ampezzo,Udine,Friuli Venezia Giulia,33021,UD
-Anacapri,Napoli,Campania,80071,
+Anacapri,Napoli,Campania,80071,NA
 Anagni,Frosinone,Lazio,03012,FR
 Ancarano,Teramo,Abruzzo,64010,TE
 Ancona,Ancona,Marche,,AN
@@ -368,7 +368,7 @@ Arvier,Aosta,Valle D Aosta,11011,AO
 Arzachena,Olbia Tempio,Sardegna,07021,OT
 Arzago D'adda,Bergamo,Lombardia,24040,BG
 Arzana,Ogliastra,Sardegna,08040,OG
-Arzano,Napoli,Campania,80022,
+Arzano,Napoli,Campania,80022,NA
 Arzene,Pordenone,Friuli Venezia Giulia,33098,PN
 Arzergrande,Padova,Veneto,35020,PD
 Arzignano,Vicenza,Veneto,36071,VI
@@ -439,7 +439,7 @@ Azzate,Varese,Lombardia,21022,VA
 Azzio,Varese,Lombardia,21030,VA
 Azzone,Bergamo,Lombardia,24020,BG
 Baceno,Verbano Cusio Ossola,Piemonte,28861,VB
-Bacoli,Napoli,Campania,80070,
+Bacoli,Napoli,Campania,80070,NA
 Badalucco,Imperia,Liguria,18010,IM
 Badesi,Olbia Tempio,Sardegna,07030,OT
 Badia,Bolzano,Trentino Alto Adige,39036,BZ
@@ -501,7 +501,7 @@ Baone,Padova,Veneto,35030,PD
 Baradili,Oristano,Sardegna,09090,OR
 Baragiano,Potenza,Basilicata,85050,PZ
 Baranello,Campobasso,Molise,86011,CB
-Barano D'ischia,Napoli,Campania,80070,
+Barano D'ischia,Napoli,Campania,80070,NA
 Baranzate,Milano,Lombardia,20021,MI
 Barasso,Varese,Lombardia,21020,VA
 Baratili San Pietro,Oristano,Sardegna,09070,OR
@@ -850,8 +850,8 @@ Boschi Sant'anna,Verona,Veneto,37040,VR
 Bosco Chiesanuova,Verona,Veneto,37021,VR
 Bosco Marengo,Alessandria,Piemonte,15062,AL
 Bosconero,Torino,Piemonte,10080,TO
-Boscoreale,Napoli,Campania,80041,
-Boscotrecase,Napoli,Campania,80042,
+Boscoreale,Napoli,Campania,80041,NA
+Boscotrecase,Napoli,Campania,80042,NA
 Bosentino,Trento,Trentino Alto Adige,38049,TN
 Bosia,Cuneo,Piemonte,12050,CN
 Bosio,Alessandria,Piemonte,15060,AL
@@ -962,7 +962,7 @@ Brunico,Bolzano,Trentino Alto Adige,39031,BZ
 Bruno,Asti,Piemonte,14046,AT
 Brusaporto,Bergamo,Lombardia,24060,BG
 Brusasco,Torino,Piemonte,10020,TO
-Brusciano,Napoli,Campania,80031,
+Brusciano,Napoli,Campania,80031,NA
 Brusimpiano,Varese,Lombardia,21050,VA
 Brusnengo,Biella,Piemonte,13862,BI
 Brusson,Aosta,Valle D Aosta,11022,AO
@@ -1055,7 +1055,7 @@ Caiolo,Sondrio,Lombardia,23010,SO
 Cairano,Avellino,Campania,83040,AV
 Cairate,Varese,Lombardia,21050,VA
 Cairo Montenotte,Savona,Liguria,17014,SV
-Caivano,Napoli,Campania,80023,
+Caivano,Napoli,Campania,80023,NA
 Calabritto,Avellino,Campania,83040,AV
 Calalzo Di Cadore,Belluno,Veneto,32042,BL
 Calamandrana,Asti,Piemonte,14042,AT
@@ -1122,7 +1122,7 @@ Calvi Risorta,Caserta,Campania,81042,CE
 Calvignano,Pavia,Lombardia,27040,PV
 Calvignasco,Milano,Lombardia,20080,MI
 Calvisano,Brescia,Lombardia,25012,BS
-Calvizzano,Napoli,Campania,80012,
+Calvizzano,Napoli,Campania,80012,NA
 Camagna Monferrato,Alessandria,Piemonte,15030,AL
 Camaiore,Lucca,Toscana,55041,LU
 Camairago,Lodi,Lombardia,26823,LO
@@ -1213,7 +1213,7 @@ Camporosso,Imperia,Liguria,18033,IM
 Camporotondo Di Fiastrone,Macerata,Marche,62020,MC
 Camporotondo Etneo,Catania,Sicilia,95040,CT
 Camposampiero,Padova,Veneto,35012,PD
-Camposano,Napoli,Campania,80030,
+Camposano,Napoli,Campania,80030,NA
 Camposanto,Modena,Emilia Romagna,41031,MO
 Campospinoso,Pavia,Lombardia,27040,PV
 Campotosto,L'Aquila,Abruzzo,67013,AQ
@@ -1317,7 +1317,7 @@ Caprarola,Viterbo,Lazio,01032,VT
 Caprauna,Cuneo,Piemonte,12070,CN
 Caprese Michelangelo,Arezzo,Toscana,52033,AR
 Caprezzo,Verbano Cusio Ossola,Piemonte,28815,VB
-Capri,Napoli,Campania,80073,
+Capri,Napoli,Campania,80073,NA
 Capri Leone,Messina,Sicilia,98070,ME
 Capriana,Trento,Trentino Alto Adige,38030,TN
 Capriano Del Colle,Brescia,Lombardia,25020,BS
@@ -1352,7 +1352,7 @@ Caravino,Torino,Piemonte,10010,TO
 Caravonica,Imperia,Liguria,18020,IM
 Carbognano,Viterbo,Lazio,01030,VT
 Carbonara Al Ticino,Pavia,Lombardia,27020,PV
-Carbonara Di Nola,Napoli,Campania,80030,
+Carbonara Di Nola,Napoli,Campania,80030,NA
 Carbonara Di Po,Mantova,Lombardia,46020,MN
 Carbonara Scrivia,Alessandria,Piemonte,15050,AL
 Carbonate,Como,Lombardia,22070,CO
@@ -1367,7 +1367,7 @@ Carde',Cuneo,Piemonte,12030,CN
 Cardedu,Ogliastra,Sardegna,08040,OG
 Cardeto,Reggio-Calabria,Calabria,89060,RC
 Cardinale,Catanzaro,Calabria,88062,CZ
-Cardito,Napoli,Campania,80024,
+Cardito,Napoli,Campania,80024,NA
 Careggine,Lucca,Toscana,55030,LU
 Carema,Torino,Piemonte,10010,TO
 Carenno,Lecco,Lombardia,23802,LC
@@ -1486,7 +1486,7 @@ Casalmaiocco,Lodi,Lombardia,26831,LO
 Casalmorano,Cremona,Lombardia,26020,CR
 Casalmoro,Mantova,Lombardia,46040,MN
 Casalnoceto,Alessandria,Piemonte,15052,AL
-Casalnuovo Di Napoli,Napoli,Campania,80013,
+Casalnuovo Di Napoli,Napoli,Campania,80013,NA
 Casalnuovo Monterotaro,Foggia,Puglia,71033,FG
 Casaloldo,Mantova,Lombardia,46040,MN
 Casalpusterlengo,Lodi,Lombardia,26841,LO
@@ -1498,10 +1498,10 @@ Casalvecchio Siculo,Messina,Sicilia,98032,ME
 Casalvieri,Frosinone,Lazio,03034,FR
 Casalvolone,Novara,Piemonte,28060,NO
 Casalzuigno,Varese,Lombardia,21030,VA
-Casamarciano,Napoli,Campania,80032,
+Casamarciano,Napoli,Campania,80032,NA
 Casamassima,Bari,Puglia,70010,BA
-Casamicciola Terme,Napoli,Campania,80074,
-Casandrino,Napoli,Campania,80025,
+Casamicciola Terme,Napoli,Campania,80074,NA
+Casandrino,Napoli,Campania,80025,NA
 Casanova Elvo,Vercelli,Piemonte,13030,VC
 Casanova Lerrone,Savona,Liguria,17033,SV
 Casanova Lonati,Pavia,Lombardia,27041,PV
@@ -1519,7 +1519,7 @@ Casasco,Alessandria,Piemonte,15050,AL
 Casasco D'intelvi,Como,Lombardia,22022,CO
 Casatenovo,Lecco,Lombardia,23880,LC
 Casatisma,Pavia,Lombardia,27040,PV
-Casavatore,Napoli,Campania,80020,
+Casavatore,Napoli,Campania,80020,NA
 Casazza,Bergamo,Lombardia,24060,BG
 Cascia,Perugia,Umbria,06043,PG
 Casciago,Varese,Lombardia,21020,VA
@@ -1542,7 +1542,7 @@ Casirate D'adda,Bergamo,Lombardia,24040,BG
 Caslino D'erba,Como,Lombardia,22030,CO
 Casnate Con Bernate,Como,Lombardia,22070,CO
 Casnigo,Bergamo,Lombardia,24020,BG
-Casola Di Napoli,Napoli,Campania,80050,
+Casola Di Napoli,Napoli,Campania,80050,NA
 Casola In Lunigiana,Massa,Toscana,54014,MS
 Casola Valsenio,Ravenna,Emilia Romagna,48010,RA
 Casole Bruzio,Cosenza,Calabria,87050,CS
@@ -1551,7 +1551,7 @@ Casoli,Chieti,Abruzzo,66043,CH
 Casorate Primo,Pavia,Lombardia,27022,PV
 Casorate Sempione,Varese,Lombardia,21011,VA
 Casorezzo,Milano,Lombardia,20010,MI
-Casoria,Napoli,Campania,80026,
+Casoria,Napoli,Campania,80026,NA
 Casorzo,Asti,Piemonte,14032,AT
 Casperia,Rieti,Lazio,02041,RI
 Caspoggio,Sondrio,Lombardia,23020,SO
@@ -1672,7 +1672,7 @@ Castellabate,Salerno,Campania,84048,SA
 Castellafiume,L'Aquila,Abruzzo,67050,AQ
 Castellalto,Teramo,Abruzzo,64020,TE
 Castellammare Del Golfo,Trapani,Sicilia,91014,TP
-Castellammare Di Stabia,Napoli,Campania,80053,
+Castellammare Di Stabia,Napoli,Campania,80053,NA
 Castellamonte,Torino,Piemonte,10081,TO
 Castellana Grotte,Bari,Puglia,70013,BA
 Castellana Sicula,Palermo,Sicilia,90020,PA
@@ -1714,7 +1714,7 @@ Castello Del Matese,Caserta,Campania,81016,CE
 Castello Dell'acqua,Sondrio,Lombardia,23030,SO
 Castello Di Annone,Asti,Piemonte,14034,AT
 Castello Di Brianza,Lecco,Lombardia,23884,LC
-Castello Di Cisterna,Napoli,Campania,80030,
+Castello Di Cisterna,Napoli,Campania,80030,NA
 Castello Di Godego,Treviso,Veneto,31030,TV
 Castello Di Serravalle,Bologna,Emilia Romagna,40050,BO
 Castello Tesino,Trento,Trentino Alto Adige,38053,TN
@@ -1945,7 +1945,7 @@ Cerchiara Di Calabria,Cosenza,Calabria,87070,CS
 Cerchio,L'Aquila,Abruzzo,67044,AQ
 Cercino,Sondrio,Lombardia,23016,SO
 Cercivento,Udine,Friuli Venezia Giulia,33020,UD
-Cercola,Napoli,Campania,80040,
+Cercola,Napoli,Campania,80040,NA
 Cerda,Palermo,Sicilia,90010,PA
 Cerea,Verona,Veneto,37053,VR
 Ceregnano,Rovigo,Veneto,45010,RO
@@ -2094,7 +2094,7 @@ Cianciana,Agrigento,Sicilia,92012,AG
 Cibiana Di Cadore,Belluno,Veneto,32040,BL
 Cicagna,Genova,Liguria,16044,GE
 Cicala,Catanzaro,Calabria,88040,CZ
-Cicciano,Napoli,Campania,80033,
+Cicciano,Napoli,Campania,80033,NA
 Cicerale,Salerno,Campania,84053,SA
 Ciciliano,Roma,Lazio,00020,RM
 Cicognolo,Cremona,Lombardia,26030,CR
@@ -2109,7 +2109,7 @@ Cimbergo,Brescia,Lombardia,25050,BS
 Cimego,Trento,Trentino Alto Adige,38082,TN
 Cimina',Reggio-Calabria,Calabria,89040,RC
 Ciminna,Palermo,Sicilia,90023,PA
-Cimitile,Napoli,Campania,80030,
+Cimitile,Napoli,Campania,80030,NA
 Cimolais,Pordenone,Friuli Venezia Giulia,33080,PN
 Cimone,Trento,Trentino Alto Adige,38060,TN
 Cinaglio,Asti,Piemonte,14020,AT
@@ -2286,7 +2286,7 @@ Comezzano-cizzago,Brescia,Lombardia,25030,BS
 Comignago,Novara,Piemonte,28060,NO
 Comiso,Ragusa,Sicilia,97013,RG
 Comitini,Agrigento,Sicilia,92020,AG
-Comiziano,Napoli,Campania,80030,
+Comiziano,Napoli,Campania,80030,NA
 Commessaggio,Mantova,Lombardia,46010,MN
 Commezzadura,Trento,Trentino Alto Adige,38020,TN
 Como,Como,Lombardia,22100,CO
@@ -2467,7 +2467,7 @@ Cressa,Novara,Piemonte,28012,NO
 Crevacuore,Biella,Piemonte,13864,BI
 Crevalcore,Bologna,Emilia Romagna,40014,BO
 Crevoladossola,Verbano Cusio Ossola,Piemonte,28865,VB
-Crispano,Napoli,Campania,80020,
+Crispano,Napoli,Campania,80020,NA
 Crispiano,Taranto,Puglia,74012,TA
 Crissolo,Cuneo,Piemonte,12030,CN
 Crocefieschi,Genova,Liguria,16010,GE
@@ -2658,7 +2658,7 @@ Erbe',Verona,Veneto,37060,VR
 Erbezzo,Verona,Veneto,37020,VR
 Erbusco,Brescia,Lombardia,25030,BS
 Erchie,Brindisi,Puglia,72020,BR
-Ercolano,Napoli,Campania,80056,
+Ercolano,Napoli,Campania,80056,NA
 Erice,Trapani,Sicilia,91016,TP
 Erli,Savona,Liguria,17030,SV
 Erto E Casso,Pordenone,Friuli Venezia Giulia,33080,PN
@@ -2882,7 +2882,7 @@ Forenza,Potenza,Basilicata,85023,PZ
 Foresto Sparso,Bergamo,Lombardia,24060,BG
 Forgaria Nel Friuli,Udine,Friuli Venezia Giulia,33030,UD
 Forino,Avellino,Campania,83020,AV
-Forio,Napoli,Campania,80075,
+Forio,Napoli,Campania,80075,NA
 Forli',Forli-Cesena,Emilia Romagna,,FC
 Forli' Del Sannio,Isernia,Molise,86084,IS
 Forlimpopoli,Forli-Cesena,Emilia Romagna,47034,FC
@@ -2954,8 +2954,8 @@ Frasso Sabino,Rieti,Lazio,02030,RI
 Frasso Telesino,Benevento,Campania,82030,BN
 Fratta Polesine,Rovigo,Veneto,45025,RO
 Fratta Todina,Perugia,Umbria,06054,PG
-Frattamaggiore,Napoli,Campania,80027,
-Frattaminore,Napoli,Campania,80020,
+Frattamaggiore,Napoli,Campania,80027,NA
+Frattaminore,Napoli,Campania,80020,NA
 Fratte Rosa,Pesaro e Urbino,Marche,61040,PU
 Frazzano',Messina,Sicilia,98070,ME
 Fregona,Treviso,Veneto,31010,TV
@@ -3171,7 +3171,7 @@ Girifalco,Catanzaro,Calabria,88024,CZ
 Gironico,Como,Lombardia,22020,CO
 Gissi,Chieti,Abruzzo,66052,CH
 Giuggianello,Lecce,Puglia,73030,LE
-Giugliano In Campania,Napoli,Campania,80014,
+Giugliano In Campania,Napoli,Campania,80014,NA
 Giuliana,Palermo,Sicilia,90030,PA
 Giuliano Di Roma,Frosinone,Lazio,03020,FR
 Giuliano Teatino,Chieti,Abruzzo,66010,CH
@@ -3232,7 +3232,7 @@ Gradoli,Viterbo,Lazio,01010,VT
 Graffignana,Lodi,Lombardia,26813,LO
 Graffignano,Viterbo,Lazio,01020,VT
 Graglia,Biella,Piemonte,13895,BI
-Gragnano,Napoli,Campania,80054,
+Gragnano,Napoli,Campania,80054,NA
 Gragnano Trebbiense,Piacenza,Emilia Romagna,29010,PC
 Grammichele,Catania,Sicilia,95042,CT
 Grana,Asti,Piemonte,14031,AT
@@ -3307,7 +3307,7 @@ Grumello Del Monte,Bergamo,Lombardia,24064,BG
 Grumento Nova,Potenza,Basilicata,85050,PZ
 Grumes,Trento,Trentino Alto Adige,38030,TN
 Grumo Appula,Bari,Puglia,70025,BA
-Grumo Nevano,Napoli,Campania,80028,
+Grumo Nevano,Napoli,Campania,80028,NA
 Grumolo Delle Abbadesse,Vicenza,Veneto,36040,VI
 Guagnano,Lecce,Puglia,73010,LE
 Gualdo,Macerata,Marche,62020,MC
@@ -3380,7 +3380,7 @@ Irma,Brescia,Lombardia,25061,BS
 Irsina,Matera,Basilicata,75022,MT
 Isasca,Cuneo,Piemonte,12020,CN
 Isca Sullo Ionio,Catanzaro,Calabria,88060,CZ
-Ischia,Napoli,Campania,80077,
+Ischia,Napoli,Campania,80077,NA
 Ischia Di Castro,Viterbo,Lazio,01010,VT
 Ischitella,Foggia,Puglia,71010,FG
 Iseo,Brescia,Lombardia,25049,BS
@@ -3447,7 +3447,7 @@ La Valletta Brianza,Lecco,Lombardia,23888,LC
 Labico,Roma,Lazio,00030,RM
 Labro,Rieti,Lazio,02010,RI
 Lacchiarella,Milano,Lombardia,20084,MI
-Lacco Ameno,Napoli,Campania,80076,
+Lacco Ameno,Napoli,Campania,80076,NA
 Lacedonia,Avellino,Campania,83046,AV
 Laces,Bolzano,Trentino Alto Adige,39021,BZ
 Laconi,Oristano,Sardegna,08034,OR
@@ -3578,7 +3578,7 @@ Lessona,Biella,Piemonte,13853,BI
 Lestizza,Udine,Friuli Venezia Giulia,33050,UD
 Letino,Caserta,Campania,81010,CE
 Letojanni,Messina,Sicilia,98037,ME
-Lettere,Napoli,Campania,80050,
+Lettere,Napoli,Campania,80050,NA
 Lettomanoppello,Pescara,Abruzzo,65020,PE
 Lettopalena,Chieti,Abruzzo,66010,CH
 Levanto,La Spezia,Liguria,19015,SP
@@ -3622,7 +3622,7 @@ Lisciano Niccone,Perugia,Umbria,06060,PG
 Lisignago,Trento,Trentino Alto Adige,38030,TN
 Lisio,Cuneo,Piemonte,12070,CN
 Lissone,Monza e della Brianza,Lombardia,20851,MB
-Liveri,Napoli,Campania,80030,
+Liveri,Napoli,Campania,80030,NA
 Livigno,Sondrio,Lombardia,23030,SO
 Livinallongo Del Col Di Lana,Belluno,Veneto,32020,BL
 Livo,Como,Lombardia,22010,CO
@@ -3848,7 +3848,7 @@ Mappano,Torino,Piemonte,10079,TO
 Mara,Sassari,Sardegna,07010,SS
 Maracalagonis,Cagliari,Sardegna,09040,CA
 Maranello,Modena,Emilia Romagna,41053,MO
-Marano Di Napoli,Napoli,Campania,80016,
+Marano Di Napoli,Napoli,Campania,80016,NA
 Marano Di Valpolicella,Verona,Veneto,37020,VR
 Marano Equo,Roma,Lazio,00020,RM
 Marano Lagunare,Udine,Friuli Venezia Giulia,33050,UD
@@ -3885,8 +3885,8 @@ Mariana Mantovana,Mantova,Lombardia,46010,MN
 Mariano Comense,Como,Lombardia,22066,CO
 Mariano Del Friuli,Gorizia,Friuli Venezia Giulia,34070,GO
 Marianopoli,Caltanissetta,Sicilia,93010,CL
-Mariglianella,Napoli,Campania,80030,
-Marigliano,Napoli,Campania,80034,
+Mariglianella,Napoli,Campania,80030,NA
+Marigliano,Napoli,Campania,80034,NA
 Marina Di Gioiosa Ionica,Reggio-Calabria,Calabria,89046,RC
 Marineo,Palermo,Sicilia,90035,PA
 Marino,Roma,Lazio,00047,RM
@@ -3947,12 +3947,12 @@ Mason Vicentino,Vicenza,Veneto,36064,VI
 Masone,Genova,Liguria,16010,GE
 Massa,Massa,Toscana,54100,MS
 Massa D'albe,L'Aquila,Abruzzo,67050,AQ
-Massa Di Somma,Napoli,Campania,80040,
+Massa Di Somma,Napoli,Campania,80040,NA
 Massa E Cozzile,Pistoia,Toscana,51010,PT
 Massa Fermana,Fermo,Marche,63834,FM
 Massa Fiscaglia,Ferrara,Emilia Romagna,44025,FE
 Massa Lombarda,Ravenna,Emilia Romagna,48024,RA
-Massa Lubrense,Napoli,Campania,80061,
+Massa Lubrense,Napoli,Campania,80061,NA
 Massa Marittima,Grosseto,Toscana,58024,GR
 Massa Martana,Perugia,Umbria,06056,PG
 Massafra,Taranto,Puglia,74016,TA
@@ -4014,7 +4014,7 @@ Melicucco,Reggio-Calabria,Calabria,89020,RC
 Melilli,Siracusa,Sicilia,96010,SR
 Melissa,Crotone,Calabria,88814,KR
 Melissano,Lecce,Puglia,73040,LE
-Melito Di Napoli,Napoli,Campania,80017,
+Melito Di Napoli,Napoli,Campania,80017,NA
 Melito Di Porto Salvo,Reggio-Calabria,Calabria,89063,RC
 Melito Irpino,Avellino,Campania,83030,AV
 Melizzano,Benevento,Campania,82030,BN
@@ -4056,7 +4056,7 @@ Mesola,Ferrara,Emilia Romagna,44026,FE
 Mesoraca,Crotone,Calabria,88838,KR
 Messina,Messina,Sicilia,,ME
 Mestrino,Padova,Veneto,35035,PD
-Meta,Napoli,Campania,80062,
+Meta,Napoli,Campania,80062,NA
 Meugliano,Torino,Piemonte,10080,TO
 Mezzago,Monza e della Brianza,Lombardia,20883,MB
 Mezzana,Trento,Trentino Alto Adige,38020,TN
@@ -4276,7 +4276,7 @@ Monte Colombo,Rimini,Emilia Romagna,47854,RN
 Monte Compatri,Roma,Lazio,00040,RM
 Monte Cremasco,Cremona,Lombardia,26010,CR
 Monte Di Malo,Vicenza,Veneto,36030,VI
-Monte Di Procida,Napoli,Campania,80070,
+Monte Di Procida,Napoli,Campania,80070,NA
 Monte Giberto,Fermo,Marche,63846,FM
 Monte Grimano Terme,Pesaro e Urbino,Marche,61010,PU
 Monte Isola,Brescia,Lombardia,25050,BS
@@ -4568,7 +4568,7 @@ Muccia,Macerata,Marche,62034,MC
 Muggia,Trieste,Friuli Venezia Giulia,34015,TS
 Muggio',Monza e della Brianza,Lombardia,20835,MB
 Mugnano Del Cardinale,Avellino,Campania,83027,AV
-Mugnano Di Napoli,Napoli,Campania,80018,
+Mugnano Di Napoli,Napoli,Campania,80018,NA
 Mulazzano,Lodi,Lombardia,26837,LO
 Mulazzo,Massa,Toscana,54026,MS
 Mura,Brescia,Lombardia,25070,BS
@@ -4593,7 +4593,7 @@ Nago-torbole,Trento,Trentino Alto Adige,38069,TN
 Nalles,Bolzano,Trentino Alto Adige,39010,BZ
 Nanno,Trento,Trentino Alto Adige,38010,TN
 Nanto,Vicenza,Veneto,36024,VI
-Napoli,Napoli,Campania,,
+Napoli,Napoli,Campania,,NA
 Narbolia,Oristano,Sardegna,09070,OR
 Narcao,Carbonia Iglesias,Sardegna,09010,CI
 Nardo',Lecce,Puglia,73048,LE
@@ -4663,7 +4663,7 @@ Nogaredo,Trento,Trentino Alto Adige,38060,TN
 Nogarole Rocca,Verona,Veneto,37060,VR
 Nogarole Vicentino,Vicenza,Veneto,36070,VI
 Noicattaro,Bari,Puglia,70016,BA
-Nola,Napoli,Campania,80035,
+Nola,Napoli,Campania,80035,NA
 Nole,Torino,Piemonte,10076,TO
 Noli,Savona,Liguria,17026,SV
 Nomaglio,Torino,Piemonte,10010,TO
@@ -4881,7 +4881,7 @@ Otranto,Lecce,Puglia,73028,LE
 Otricoli,Terni,Umbria,05030,TR
 Ottana,Nuoro,Sardegna,08020,NU
 Ottati,Salerno,Campania,84020,SA
-Ottaviano,Napoli,Campania,80044,
+Ottaviano,Napoli,Campania,80044,NA
 Ottiglio,Alessandria,Piemonte,15038,AL
 Ottobiano,Pavia,Lombardia,27030,PV
 Ottone,Piacenza,Emilia Romagna,29026,PC
@@ -4959,7 +4959,7 @@ Palizzi,Reggio-Calabria,Calabria,89038,RC
 Pallagorio,Crotone,Calabria,88818,KR
 Pallanzeno,Verbano Cusio Ossola,Piemonte,28884,VB
 Pallare,Savona,Liguria,17043,SV
-Palma Campania,Napoli,Campania,80036,
+Palma Campania,Napoli,Campania,80036,NA
 Palma Di Montechiaro,Agrigento,Sicilia,92020,AG
 Palmanova,Udine,Friuli Venezia Giulia,33057,UD
 Palmariggi,Lecce,Puglia,73020,LE
@@ -5182,7 +5182,7 @@ Pianezze,Vicenza,Veneto,36060,VI
 Pianfei,Cuneo,Piemonte,12080,CN
 Pianico,Bergamo,Lombardia,24060,BG
 Pianiga,Venezia,Veneto,30030,VE
-Piano Di Sorrento,Napoli,Campania,80063,
+Piano Di Sorrento,Napoli,Campania,80063,NA
 Pianopoli,Catanzaro,Calabria,88040,CZ
 Pianoro,Bologna,Emilia Romagna,40065,BO
 Piansano,Viterbo,Lazio,01010,VT
@@ -5268,7 +5268,7 @@ Pignone,La Spezia,Liguria,19020,SP
 Pigra,Como,Lombardia,22020,CO
 Pila,Vercelli,Piemonte,13020,VC
 Pimentel,Cagliari,Sardegna,09020,CA
-Pimonte,Napoli,Campania,80050,
+Pimonte,Napoli,Campania,80050,NA
 Pinarolo Po,Pavia,Lombardia,27040,PV
 Pinasca,Torino,Piemonte,10060,TO
 Pincara,Rovigo,Veneto,45020,RO
@@ -5349,7 +5349,7 @@ Poggio San Vicino,Macerata,Marche,62021,MC
 Poggio Sannita,Isernia,Molise,86086,IS
 Poggiodomo,Perugia,Umbria,06040,PG
 Poggiofiorito,Chieti,Abruzzo,66030,CH
-Poggiomarino,Napoli,Campania,80040,
+Poggiomarino,Napoli,Campania,80040,NA
 Poggioreale,Trapani,Sicilia,91020,TP
 Poggiorsini,Bari,Puglia,70020,BA
 Poggiridenti,Sondrio,Lombardia,23020,SO
@@ -5374,7 +5374,7 @@ Polistena,Reggio-Calabria,Calabria,89024,RC
 Polizzi Generosa,Palermo,Sicilia,90028,PA
 Polla,Salerno,Campania,84035,SA
 Pollein,Aosta,Valle D Aosta,11020,AO
-Pollena Trocchia,Napoli,Campania,80040,
+Pollena Trocchia,Napoli,Campania,80040,NA
 Pollenza,Macerata,Marche,62010,MC
 Pollica,Salerno,Campania,84068,SA
 Pollina,Palermo,Sicilia,90010,PA
@@ -5391,8 +5391,8 @@ Pomaro Monferrato,Alessandria,Piemonte,15040,AL
 Pomarolo,Trento,Trentino Alto Adige,38060,TN
 Pombia,Novara,Piemonte,28050,NO
 Pomezia,Roma,Lazio,00040,RM
-Pomigliano D'arco,Napoli,Campania,80038,
-Pompei,Napoli,Campania,80045,
+Pomigliano D'arco,Napoli,Campania,80038,NA
+Pompei,Napoli,Campania,80045,NA
 Pompeiana,Imperia,Liguria,18015,IM
 Pompiano,Brescia,Lombardia,25030,BS
 Pomponesco,Mantova,Lombardia,46030,MN
@@ -5462,7 +5462,7 @@ Porretta Terme,Bologna,Emilia Romagna,40046,BO
 Portacomaro,Asti,Piemonte,14037,AT
 Portalbera,Pavia,Lombardia,27040,PV
 Porte,Torino,Piemonte,10060,TO
-Portici,Napoli,Campania,80055,
+Portici,Napoli,Campania,80055,NA
 Portico Di Caserta,Caserta,Campania,81050,CE
 Portico E San Benedetto,Forli-Cesena,Emilia Romagna,47010,FC
 Portigliola,Reggio-Calabria,Calabria,89040,RC
@@ -5517,7 +5517,7 @@ Pozzoleone,Vicenza,Veneto,36050,VI
 Pozzolo Formigaro,Alessandria,Piemonte,15068,AL
 Pozzomaggiore,Sassari,Sardegna,07018,SS
 Pozzonovo,Padova,Veneto,35020,PD
-Pozzuoli,Napoli,Campania,80078,
+Pozzuoli,Napoli,Campania,80078,NA
 Pozzuolo Del Friuli,Udine,Friuli Venezia Giulia,33050,UD
 Pozzuolo Martesana,Milano,Lombardia,20060,MI
 Pradalunga,Bergamo,Lombardia,24020,BG
@@ -5596,7 +5596,7 @@ Priolo Gargallo,Siracusa,Sicilia,96010,SR
 Priverno,Latina,Lazio,04015,LT
 Prizzi,Palermo,Sicilia,90038,PA
 Proceno,Viterbo,Lazio,01020,VT
-Procida,Napoli,Campania,80079,
+Procida,Napoli,Campania,80079,NA
 Propata,Genova,Liguria,16027,GE
 Proserpio,Como,Lombardia,22030,CO
 Prossedi,Latina,Lazio,04010,LT
@@ -5618,7 +5618,7 @@ Putignano,Bari,Puglia,70017,BA
 Quadrelle,Avellino,Campania,83020,AV
 Quadri,Chieti,Abruzzo,66040,CH
 Quagliuzzo,Torino,Piemonte,10010,TO
-Qualiano,Napoli,Campania,80019,
+Qualiano,Napoli,Campania,80019,NA
 Quaranti,Asti,Piemonte,14040,AT
 Quaregna,Biella,Piemonte,13854,BI
 Quargnento,Alessandria,Piemonte,15044,AL
@@ -5627,7 +5627,7 @@ Quarna Sotto,Verbano Cusio Ossola,Piemonte,28896,VB
 Quarona,Vercelli,Piemonte,13017,VC
 Quarrata,Pistoia,Toscana,51039,PT
 Quart,Aosta,Valle D Aosta,11020,AO
-Quarto,Napoli,Campania,80010,
+Quarto,Napoli,Campania,80010,NA
 Quarto D'altino,Venezia,Veneto,30020,VE
 Quartu Sant'elena,Cagliari,Sardegna,09045,CA
 Quartucciu,Cagliari,Sardegna,09044,CA
@@ -5880,7 +5880,7 @@ Roccanova,Potenza,Basilicata,85036,PZ
 Roccantica,Rieti,Lazio,02040,RI
 Roccapalumba,Palermo,Sicilia,90020,PA
 Roccapiemonte,Salerno,Campania,84086,SA
-Roccarainola,Napoli,Campania,80030,
+Roccarainola,Napoli,Campania,80030,NA
 Roccaraso,L'Aquila,Abruzzo,67037,AQ
 Roccaromana,Caserta,Campania,81051,CE
 Roccascalegna,Chieti,Abruzzo,66040,CH
@@ -6215,7 +6215,7 @@ San Gavino Monreale,Medio Campidano,Sardegna,09037,VS
 San Gemini,Terni,Umbria,05029,TR
 San Genesio Atesino,Bolzano,Trentino Alto Adige,39050,BZ
 San Genesio Ed Uniti,Pavia,Lombardia,27010,PV
-San Gennaro Vesuviano,Napoli,Campania,80040,
+San Gennaro Vesuviano,Napoli,Campania,80040,NA
 San Germano Chisone,Torino,Piemonte,10065,TO
 San Germano Dei Berici,Vicenza,Veneto,36040,VI
 San Germano Vercellese,Vercelli,Piemonte,13047,VC
@@ -6227,7 +6227,7 @@ San Giacomo Vercellese,Vercelli,Piemonte,13030,VC
 San Gillio,Torino,Piemonte,10040,TO
 San Gimignano,Siena,Toscana,53037,SI
 San Ginesio,Macerata,Marche,62026,MC
-San Giorgio A Cremano,Napoli,Campania,80046,
+San Giorgio A Cremano,Napoli,Campania,80046,NA
 San Giorgio A Liri,Frosinone,Lazio,03047,FR
 San Giorgio Albanese,Cosenza,Calabria,87060,CS
 San Giorgio Canavese,Torino,Piemonte,10090,TO
@@ -6275,7 +6275,7 @@ San Giuliano Di Puglia,Campobasso,Molise,86040,CB
 San Giuliano Milanese,Milano,Lombardia,20098,MI
 San Giuliano Terme,Pisa,Toscana,56017,PI
 San Giuseppe Jato,Palermo,Sicilia,90048,PA
-San Giuseppe Vesuviano,Napoli,Campania,80047,
+San Giuseppe Vesuviano,Napoli,Campania,80047,NA
 San Giustino,Perugia,Umbria,06016,PG
 San Giusto Canavese,Torino,Piemonte,10090,TO
 San Godenzo,Firenze,Toscana,50060,FI
@@ -6375,7 +6375,7 @@ San Pancrazio,Bolzano,Trentino Alto Adige,39010,BZ
 San Pancrazio Salentino,Brindisi,Puglia,72026,BR
 San Paolo,Brescia,Lombardia,25020,BS
 San Paolo Albanese,Potenza,Basilicata,85030,PZ
-San Paolo Bel Sito,Napoli,Campania,80030,
+San Paolo Bel Sito,Napoli,Campania,80030,NA
 San Paolo Cervo,Biella,Piemonte,13812,BI
 San Paolo D'argon,Bergamo,Lombardia,24060,BG
 San Paolo Di Civitate,Foggia,Puglia,71010,FG
@@ -6432,7 +6432,7 @@ San Salvatore Di Fitalia,Messina,Sicilia,98070,ME
 San Salvatore Monferrato,Alessandria,Piemonte,15046,AL
 San Salvatore Telesino,Benevento,Campania,82030,BN
 San Salvo,Chieti,Abruzzo,66050,CH
-San Sebastiano Al Vesuvio,Napoli,Campania,80040,
+San Sebastiano Al Vesuvio,Napoli,Campania,80040,NA
 San Sebastiano Curone,Alessandria,Piemonte,15056,AL
 San Sebastiano Da Po,Torino,Piemonte,10020,TO
 San Secondo Di Pinerolo,Torino,Piemonte,10060,TO
@@ -6457,7 +6457,7 @@ San Vero Milis,Oristano,Sardegna,09070,OR
 San Vincenzo,Livorno,Toscana,57027,LI
 San Vincenzo La Costa,Cosenza,Calabria,87030,CS
 San Vincenzo Valle Roveto,L'Aquila,Abruzzo,67050,AQ
-San Vitaliano,Napoli,Campania,80030,
+San Vitaliano,Napoli,Campania,80030,NA
 San Vito,Cagliari,Sardegna,09040,CA
 San Vito Al Tagliamento,Pordenone,Friuli Venezia Giulia,33078,PN
 San Vito Al Torre,Udine,Friuli Venezia Giulia,33050,UD
@@ -6502,7 +6502,7 @@ Sant'agata Feltria,Rimini,Emilia Romagna,47866,RN
 Sant'agata Fossili,Alessandria,Piemonte,15050,AL
 Sant'agata Li Battiati,Catania,Sicilia,95030,CT
 Sant'agata Sul Santerno,Ravenna,Emilia Romagna,48020,RA
-Sant'agnello,Napoli,Campania,80065,
+Sant'agnello,Napoli,Campania,80065,NA
 Sant'agostino,Ferrara,Emilia Romagna,44047,FE
 Sant'albano Stura,Cuneo,Piemonte,12040,CN
 Sant'alessio Con Vialone,Pavia,Lombardia,27016,PV
@@ -6512,7 +6512,7 @@ Sant'alfio,Catania,Sicilia,95010,CT
 Sant'ambrogio Di Torino,Torino,Piemonte,10057,TO
 Sant'ambrogio Di Valpolicella,Verona,Veneto,37015,VR
 Sant'ambrogio Sul Garigliano,Frosinone,Lazio,03040,FR
-Sant'anastasia,Napoli,Campania,80048,
+Sant'anastasia,Napoli,Campania,80048,NA
 Sant'anatolia Di Narco,Perugia,Umbria,06040,PG
 Sant'andrea Apostolo Dello Ionio,Catanzaro,Calabria,88060,CZ
 Sant'andrea Del Garigliano,Frosinone,Lazio,03040,FR
@@ -6538,10 +6538,10 @@ Sant'angelo Muxaro,Agrigento,Sicilia,92020,AG
 Sant'angelo Romano,Roma,Lazio,00010,RM
 Sant'anna Arresi,Carbonia Iglesias,Sardegna,09010,CI
 Sant'anna D'alfaedo,Verona,Veneto,37020,VR
-Sant'antimo,Napoli,Campania,80029,
+Sant'antimo,Napoli,Campania,80029,NA
 Sant'antioco,Carbonia Iglesias,Sardegna,09017,CI
 Sant'antonino Di Susa,Torino,Piemonte,10050,TO
-Sant'antonio Abate,Napoli,Campania,80057,
+Sant'antonio Abate,Napoli,Campania,80057,NA
 Sant'antonio Di Gallura,Olbia Tempio,Sardegna,07030,OT
 Sant'apollinare,Frosinone,Lazio,03048,FR
 Sant'arcangelo,Potenza,Basilicata,85037,PZ
@@ -6610,7 +6610,7 @@ Santa Maria Di Licodia,Catania,Sicilia,95038,CT
 Santa Maria Di Sala,Venezia,Veneto,30036,VE
 Santa Maria Hoe',Lecco,Lombardia,23889,LC
 Santa Maria Imbaro,Chieti,Abruzzo,66030,CH
-Santa Maria La Carita',Napoli,Campania,80050,
+Santa Maria La Carita',Napoli,Campania,80050,NA
 Santa Maria La Fossa,Caserta,Campania,81050,CE
 Santa Maria La Longa,Udine,Friuli Venezia Giulia,33050,UD
 Santa Maria Maggiore,Verbano Cusio Ossola,Piemonte,28857,VB
@@ -6701,7 +6701,7 @@ Sauze D'oulx,Torino,Piemonte,10050,TO
 Sauze Di Cesana,Torino,Piemonte,10054,TO
 Sava,Taranto,Puglia,74028,TA
 Savelli,Crotone,Calabria,88825,KR
-Saviano,Napoli,Campania,80039,
+Saviano,Napoli,Campania,80039,NA
 Savigliano,Cuneo,Piemonte,12038,CN
 Savignano Irpino,Avellino,Campania,83030,AV
 Savignano Sul Panaro,Modena,Emilia Romagna,41056,MO
@@ -6759,7 +6759,7 @@ Scigliano,Cosenza,Calabria,87057,CS
 Scilla,Reggio-Calabria,Calabria,89058,RC
 Scillato,Palermo,Sicilia,90020,PA
 Sciolze,Torino,Piemonte,10090,TO
-Scisciano,Napoli,Campania,80030,
+Scisciano,Napoli,Campania,80030,NA
 Sclafani Bagni,Palermo,Sicilia,90020,PA
 Scontrone,L'Aquila,Abruzzo,67030,AQ
 Scopa,Vercelli,Piemonte,13027,VC
@@ -6854,7 +6854,7 @@ Serramazzoni,Modena,Emilia Romagna,41028,MO
 Serramezzana,Salerno,Campania,84070,SA
 Serramonacesca,Pescara,Abruzzo,65025,PE
 Serrapetrona,Macerata,Marche,62020,MC
-Serrara Fontana,Napoli,Campania,80070,
+Serrara Fontana,Napoli,Campania,80070,NA
 Serrastretta,Catanzaro,Calabria,88040,CZ
 Serrata,Reggio-Calabria,Calabria,89020,RC
 Serravalle A Po,Mantova,Lombardia,46030,MN
@@ -6987,7 +6987,7 @@ Solza,Bergamo,Lombardia,24030,BG
 Somaglia,Lodi,Lombardia,26867,LO
 Somano,Cuneo,Piemonte,12060,CN
 Somma Lombardo,Varese,Lombardia,21019,VA
-Somma Vesuviana,Napoli,Campania,80049,
+Somma Vesuviana,Napoli,Campania,80049,NA
 Sommacampagna,Verona,Veneto,37066,VR
 Sommariva Del Bosco,Cuneo,Piemonte,12048,CN
 Sommariva Perno,Cuneo,Piemonte,12040,CN
@@ -7022,7 +7022,7 @@ Soriso,Novara,Piemonte,28010,NO
 Sorisole,Bergamo,Lombardia,24010,BG
 Sormano,Como,Lombardia,22030,CO
 Sorradile,Oristano,Sardegna,09080,OR
-Sorrento,Napoli,Campania,80067,
+Sorrento,Napoli,Campania,80067,NA
 Sorso,Sassari,Sardegna,07037,SS
 Sortino,Siracusa,Sicilia,96010,SR
 Sospiro,Cremona,Lombardia,26048,CR
@@ -7120,7 +7120,7 @@ Stregna,Udine,Friuli Venezia Giulia,33040,UD
 Strembo,Trento,Trentino Alto Adige,38080,TN
 Stresa,Verbano Cusio Ossola,Piemonte,28838,VB
 Strevi,Alessandria,Piemonte,15019,AL
-Striano,Napoli,Campania,80040,
+Striano,Napoli,Campania,80040,NA
 Strigno,Trento,Trentino Alto Adige,38059,TN
 Strona,Biella,Piemonte,13823,BI
 Stroncone,Terni,Umbria,05039,TR
@@ -7255,7 +7255,7 @@ Terres,Trento,Trentino Alto Adige,38010,TN
 Terricciola,Pisa,Toscana,56030,PI
 Terruggia,Alessandria,Piemonte,15030,AL
 Tertenia,Ogliastra,Sardegna,08047,OG
-Terzigno,Napoli,Campania,80040,
+Terzigno,Napoli,Campania,80040,NA
 Terzo,Alessandria,Piemonte,15010,AL
 Terzo D'aquileia,Udine,Friuli Venezia Giulia,33050,UD
 Terzolas,Trento,Trentino Alto Adige,38027,TN
@@ -7336,7 +7336,7 @@ Torralba,Sassari,Sardegna,07048,SS
 Torrazza Coste,Pavia,Lombardia,27050,PV
 Torrazza Piemonte,Torino,Piemonte,10037,TO
 Torrazzo,Biella,Piemonte,13884,BI
-Torre Annunziata,Napoli,Campania,80058,
+Torre Annunziata,Napoli,Campania,80058,NA
 Torre Beretti E Castellaro,Pavia,Lombardia,27030,PV
 Torre Boldone,Bergamo,Lombardia,24020,BG
 Torre Bormida,Cuneo,Piemonte,12050,CN
@@ -7349,7 +7349,7 @@ Torre De' Negri,Pavia,Lombardia,27011,PV
 Torre De' Passeri,Pescara,Abruzzo,65029,PE
 Torre De' Picenardi,Cremona,Lombardia,26038,CR
 Torre De' Roveri,Bergamo,Lombardia,24060,BG
-Torre Del Greco,Napoli,Campania,80059,
+Torre Del Greco,Napoli,Campania,80059,NA
 Torre Di Mosto,Venezia,Veneto,30020,VE
 Torre Di Ruggiero,Catanzaro,Calabria,88060,CZ
 Torre Di Santa Maria,Sondrio,Lombardia,23020,SO
@@ -7431,7 +7431,7 @@ Travo,Piacenza,Emilia Romagna,29020,PC
 Trebaseleghe,Padova,Veneto,35010,PD
 Trebisacce,Cosenza,Calabria,87075,CS
 Trecasali,Parma,Emilia Romagna,43010,PR
-Trecase,Napoli,Campania,80040,
+Trecase,Napoli,Campania,80040,NA
 Trecastagni,Catania,Sicilia,95039,CT
 Trecastelli,Ancona,Marche,60012,AN
 Trecate,Novara,Piemonte,28069,NO
@@ -7521,7 +7521,7 @@ Tubre,Bolzano,Trentino Alto Adige,39020,BZ
 Tuenno,Trento,Trentino Alto Adige,38019,TN
 Tufara,Campobasso,Molise,86010,CB
 Tufillo,Chieti,Abruzzo,66050,CH
-Tufino,Napoli,Campania,80030,
+Tufino,Napoli,Campania,80030,NA
 Tufo,Avellino,Campania,83010,AV
 Tuglie,Lecce,Puglia,73058,LE
 Tuili,Medio Campidano,Sardegna,09029,VS
@@ -7839,7 +7839,7 @@ Vicchio,Firenze,Toscana,50039,FI
 Vicenza,Vicenza,Veneto,36100,VI
 Vico Canavese,Torino,Piemonte,10080,TO
 Vico Del Gargano,Foggia,Puglia,71018,FG
-Vico Equense,Napoli,Campania,80069,
+Vico Equense,Napoli,Campania,80069,NA
 Vico Nel Lazio,Frosinone,Lazio,03010,FR
 Vicoforte,Cuneo,Piemonte,12080,CN
 Vicoli,Pescara,Abruzzo,65010,PE
@@ -7985,7 +7985,7 @@ Villar San Costanzo,Cuneo,Piemonte,12020,CN
 Villarbasse,Torino,Piemonte,10090,TO
 Villarboit,Vercelli,Piemonte,13030,VC
 Villareggia,Torino,Piemonte,10030,TO
-Villaricca,Napoli,Campania,80010,
+Villaricca,Napoli,Campania,80010,NA
 Villaromagnano,Alessandria,Piemonte,15050,AL
 Villarosa,Enna,Sicilia,94010,EN
 Villasalto,Cagliari,Sardegna,09040,CA
@@ -8021,7 +8021,7 @@ Virgilio,Mantova,Lombardia,46030,MN
 Virle Piemonte,Torino,Piemonte,10060,TO
 Visano,Brescia,Lombardia,25010,BS
 Vische,Torino,Piemonte,10030,TO
-Visciano,Napoli,Campania,80030,
+Visciano,Napoli,Campania,80030,NA
 Visco,Udine,Friuli Venezia Giulia,33040,UD
 Visone,Alessandria,Piemonte,15010,AL
 Visso,Macerata,Marche,62039,MC
@@ -8054,7 +8054,7 @@ Voghera,Pavia,Lombardia,27058,PV
 Voghiera,Ferrara,Emilia Romagna,44019,FE
 Vogogna,Verbano Cusio Ossola,Piemonte,28805,VB
 Volano,Trento,Trentino Alto Adige,38060,TN
-Volla,Napoli,Campania,80040,
+Volla,Napoli,Campania,80040,NA
 Volongo,Cremona,Lombardia,26030,CR
 Volpago Del Montello,Treviso,Veneto,31040,TV
 Volpara,Pavia,Lombardia,27047,PV
