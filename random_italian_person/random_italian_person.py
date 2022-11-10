@@ -20,7 +20,8 @@ class RandomItalianPerson:
             RandomItalianPerson.municipalities = pd.read_csv(
                 "{}/datasets/municipalities.csv".format(
                     os.path.dirname(os.path.abspath(__file__))),
-                dtype={"cap": str}
+                dtype={"cap": str},
+                na_filter=False
             )
         if RandomItalianPerson.names is None:
             RandomItalianPerson.names = pd.read_csv(
