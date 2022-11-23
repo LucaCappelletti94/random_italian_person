@@ -44,7 +44,8 @@ class RandomItalianPerson:
             RandomItalianPerson.addresses = pd.read_csv(
                 "{}/datasets/addresses.csv".format(
                     os.path.dirname(os.path.abspath(__file__))),
-                dtype={"cap": str}
+                dtype={"cap": str},
+                na_filter=False
             )
 
         surname_data = RandomItalianPerson.surnames.sample(n=1)
