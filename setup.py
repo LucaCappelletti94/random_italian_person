@@ -61,7 +61,7 @@ setup(
     tests_require=test_deps,
     # Add here the package dependencies
     install_requires=[
-        "python-codicefiscale",
+        "python-codicefiscale>=0.5.0",
         "pandas",
         "numpy"
     ],

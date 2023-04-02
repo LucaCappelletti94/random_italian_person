@@ -69,13 +69,22 @@ class RandomItalianPerson:
             **address_data.reset_index(drop=True).iloc[0].to_dict()
         }
 
-        self._data["codice_fiscale"] = codicefiscale.encode(
-            lastname=self.surname,
-            firstname=self.name,
-            gender=self.sex,
-            birthdate=self.birthdate,
-            birthplace=self.birthplace
-        )
+        try:
+            self._data["codice_fiscale"] = codicefiscale.encode(
+                lastname=self.surname,
+                firstname=self.name,
+                gender=self.sex,
+                birthdate=self.birthdate,
+                birthplace=self.birthplace
+            )
+        except TypeError:
+            self._data["codice_fiscale"] = codicefiscale.encode(
+                surname=self.surname,
+                name=self.name,
+                sex=self.sex,
+                birthdate=self.birthdate,
+                birthplace=self.birthplace
+            )
 
     @property
     def name(self) -> str:
