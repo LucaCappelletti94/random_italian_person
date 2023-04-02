@@ -70,9 +70,9 @@ class RandomItalianPerson:
         }
 
         self._data["codice_fiscale"] = codicefiscale.encode(
-            surname=self.surname,
-            name=self.name,
-            sex=self.sex,
+            lastname=self.surname,
+            firstname=self.name,
+            gender=self.sex,
             birthdate=self.birthdate,
             birthplace=self.birthplace
         )
