@@ -1,6 +1,6 @@
 random_italian_person
 =========================================================================================
-|pip| |downloads|
+|pip| |downloads| |github|
 
 Python package to generate an Italian person randomly.
 
@@ -65,3 +65,7 @@ The obtained dataframe will look like:
 .. |downloads| image:: https://pepy.tech/badge/random-italian-person
     :target: https://pepy.tech/badge/random-italian-person
     :alt: Pypi total project downloads
+
+.. |github| image:: https://github.com/lucacappelletti94/random-italian-person/actions/workflows/python.yml/badge.svg
+    :target: https://github.com/lucacappelletti94/random-italian-person/actions
+    :alt: Github Actions
